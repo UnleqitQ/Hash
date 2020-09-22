@@ -1,5 +1,4 @@
 # Hash
-A program for hashing. I is helpful for me sometimes.
 
 This is a free to use Software. I’m not interested in money.
 By accepting this you agree not to copy this program to pretend to be your own. You agree that you can upload this installer or the file that is installed but then additional this Agreement and the Creator information.
